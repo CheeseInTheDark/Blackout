@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Blackout</string>
+    <string name="blackout_time">Blackout Time</string>
+    <string name="alarm_between">Alarm between</string>
+    <string name="minutes">minutes</string>
+    <string name="and">and</string>
+    <string name="set_alarm">set alarm</string>
+    <string name="message_empty_blackout_period_error">Please enter blackout duration</string>
+    <string name="message_alarm_set">Alarm set!</string>
+    <string name="blackout_in_progress">blackout time</string>
+    <string name="silence">silence</string>
+    <string name="alarm_silenced">alarm silenced</string>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Text">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="LargeText">
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <style name="Button">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:background">@color/darkBlue</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="SilenceButton" parent="Button">
+        <item name="android:background">@color/lightBlueGray</item>
+    </style>
+
+    <style name="FullpageText">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">60sp</item>
+    </style>
+</resources>
